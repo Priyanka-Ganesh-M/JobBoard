@@ -1,0 +1,13 @@
+.job-img{
+    width : 600px;
+    height : 400px;
+    position : absolute;
+    top : 30%;
+    left : 40%;
+}
+
+.caption{
+    position : relative;
+    margin-top : 10%;
+    left : 10%;
+}
